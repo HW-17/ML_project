@@ -1,2 +1,2 @@
-# ML_project_1
-Hand Written Digit Prediction
+# ML_project
+pro_1:Hand Written Digit Prediction
